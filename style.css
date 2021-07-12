@@ -1,0 +1,20 @@
+.jumbotron {
+  padding-top: 4rem;
+  color: white;
+  background-image: url(./img/workspace-1280538_1920.jpg);
+  background-size: cover;
+  /* background-color: rgb(168, 189, 248); */
+}
+
+#project {
+  background-image: url(./img/pexels-pixabay-326333.jpg);
+  background-size: cover;
+}
+
+#project h2 {
+  color: white;
+}
+
+section {
+  padding-top: 4rem;
+}
